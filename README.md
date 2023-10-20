@@ -1,5 +1,5 @@
 ### Hi, I'm Sunni!
-:blush: I'm from Hsinchu, Taiwan, and I am an undergraduate senior at BU double majoring in Computer and Biomedical Engineering.
+:blush: I'm from Hsinchu, Taiwan, and I am an undergraduate senior at Boston University double majoring in Computer and Biomedical Engineering.
 
 🌱 I am involved in Deep Learning, Software Development, and Operating Systems, and I am excited to find the intersections between CE and BME in the healthcare-biotech industry to deliver impact in biomedicine via software development and AI.
 
