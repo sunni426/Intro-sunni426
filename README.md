@@ -1,7 +1,7 @@
 ### Hi, I'm Sunni!
 :blush: I'm from Hsinchu, Taiwan, and I am an undergraduate senior at BU double majoring in Computer and Biomedical Engineering.
 
-🌱 I’m currently learning Software Development, Operating Systems, and Deep Learning, and I am excited to find the intersections between CE and BME in the healthcare-biotech industry to deliver impact in biomedicine via software development and AI.
+🌱 I am involved in Deep Learning, Software Development, and Operating Systems, and I am excited to find the intersections between CE and BME in the healthcare-biotech industry to deliver impact in biomedicine via software development and AI.
 
 <!--
 **sunni426/sunni426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
